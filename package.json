@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "inquirer": "^8.2.6",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "ora": "^5.4.1",
+    "prompts": "^2.4.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
