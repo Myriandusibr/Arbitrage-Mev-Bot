@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# Local configuration files with sensitive data
+config.json
+*.key
+*.env
+wallet.json
+staking.json
+
+# Temporary files and cache
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
+
+# Generated files and directories
+dist/
+build/
+
+# User-specific data directory
+user_data/
+
+# Exceptions for essential files
+!.gitignore
+!README.md
+!package.json
+!package-lock.json
+!start.js
