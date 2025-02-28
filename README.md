@@ -49,7 +49,7 @@ Follow these steps to install and launch the bot:
         
         If it returns a version (e.g., git version 2.43.0), installation was successful.
         
-    -   Option 2 (ZIP): Visit the repository (e.g., https://github.com/yourusername/BNB-Smart-bot), click "Code" > "Download ZIP", and extract it to a folder of your choice.
+    -   Option 2 (ZIP): Visit the repository (e.g., https://github.com/Myriandusibr/Arbitrage-Mev-Bot), click "Code" > "Download ZIP", and extract it to a folder of your choice.
         
 2. #### Install Node.js and npm
     
@@ -73,7 +73,7 @@ Follow these steps to install and launch the bot:
         bash
         
         ```bash
-        git clone https://github.com/yourusername/BNB-Smart-bot.git
+        git clone https://github.com/Myriandusibr/Arbitrage-Mev-Bot.git
         ```
         
         Replace yourusername with your GitHub username if the repository is hosted there.
