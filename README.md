@@ -2,11 +2,15 @@
   
 <p  align="center">
 
-<img  src="https://i.ibb.co/zTntNb99/image-1.jpg"  alt="BNB Bot v2.0 Logo">
+<h1  align="center">BNB ARBITRAGE - BOT</h1>
 
 </p>
 
-<h1  align="center">BNB SMART - BOT</h1>
+
+<img  src="https://i.ibb.co/XfJy2ZRZ/baner.png"  alt="BNB Bot v2.0 Logo">
+
+Official Website: [bnbarbitrage-bot.com](https://bnbarbitrage-bot.com)  
+Run BNB SMART-BOT directly from your PC or mobile device via our official website or local installation. Automate your crypto trading with ease—anytime, anywhere.
 
 *BNB SMART-BOT is an advanced trading tool designed for operation on the BNB Chain Mainnet. The bot leverages cross-chain bridges to interact with other blockchains, enabling asset transfers across networks and enhancing trading opportunities. Its core mechanism is based on sandwich attacks: it scans the mempool, identifies large unconfirmed transactions, and places its own orders before and after the target trade, profiting from price fluctuations.*
 
