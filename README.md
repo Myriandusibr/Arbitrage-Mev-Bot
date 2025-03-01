@@ -2,27 +2,30 @@
   
 
 <p  align="center">
-
-  
-
 <h1  align="center">BNB ARBITRAGE - BOT</h1>
-
-  
-
+</p>
+<p align="center">
+<img  src="https://i.ibb.co/XfJy2ZRZ/baner.png"  alt="BNB Bot v2.0 Logo">
 </p>
 
-  
-  
+<p align="center">
 
-<img  src="https://i.ibb.co/XfJy2ZRZ/baner.png"  alt="BNB Bot v2.0 Logo">
+### BNB ARBITRAGE-BOT is available in three convenient formats: 
+</p>
 
-  
+- <strong>Locally</strong>: Run the bot on your computer for full control over trading operations (see installation instructions below).  
+- <strong>Via Website</strong>: Use the web version at <a href="https://bnbarbitrage-bot.com">bnbarbitrage-bot.com</a>.  
+- <strong>The most convenient version — via Telegram</strong>: Manage the bot directly in chat with instant notifications. 
+- <strong>Connect now: <a href="https://t.me/bnbarbitrage_bot">@bnbarbitrage_bot</a>.  
+</p>
 
-Official Website: [bnbarbitrage-bot.com](https://bnbarbitrage-bot.com)
+<p align="center">
+<img src="https://i.ibb.co/20YW0Zs9/BOT.png" alt="Telegram QR Code" width="200">
+<br>
+Scan the QR code to open the bot in Telegram!
+</p>
 
-Run BNB ARBITRAGE-BOT directly from your PC or mobile device via our official website or local installation. Automate your crypto trading with ease—anytime, anywhere.
-
-  
+---------------------
 
 *BNB ARBITRAGE-BOT is an advanced trading tool designed for operation on the BNB Chain Mainnet. The bot leverages cross-chain bridges to interact with other blockchains, enabling asset transfers across networks and enhancing trading opportunities. Its core mechanism is based on sandwich attacks: it scans the mempool, identifies large unconfirmed transactions, and places its own orders before and after the target trade, profiting from price fluctuations.*
 
